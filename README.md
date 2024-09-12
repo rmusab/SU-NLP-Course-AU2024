@@ -1,6 +1,6 @@
-# SU NLP Course AU2024
+# Applied Text Processing
 
-Natural Language Processing course (CSE2562). Satbayev University. Autumn 2024
+Applied Text Processing course (CSE2562). Satbayev University, Autumn 2024
 
 ## Repository structure
 
