@@ -1,9 +1,9 @@
 # Week 1
 
 ## Word embeddings
-- [__lecture slides__](https://drive.google.com/file/d/1YJi56rdgKANlOE_Uam4LDAKhDyjJTD1L/view?usp=sharing)
-- Our videos: [__lecture__](https://disk.yandex.ru/i/v6Xbh2j0bmxfOg), [__seminar__](https://disk.yandex.ru/i/t4P2-R1Kk7GR1g)
-- Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
+- [__Lecture slides__](https://drive.google.com/file/d/1YJi56rdgKANlOE_Uam4LDAKhDyjJTD1L/view?usp=sharing)
+- Our videos: [__Lecture 2__](https://washington.zoom.us/rec/share/hXX36kovjZ7EEGVH6ZwwfOVcixklndruZRwJX1V2Z_wAy4ia3xBbi1RrFk90kzYm.ebSIw0jYQc9Hk7KI)
+- Lecture video from Stanford CS224N - [__Intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__Embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
 
 
 ## Practice & homework
