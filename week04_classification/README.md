@@ -1,4 +1,4 @@
-# Week 4
+# Weeks 4-6
 
 ## Text classification
 - [__Lecture slides__](https://drive.google.com/file/d/1G4UDH3BIm0kxjNjvlTUPzy8MPzWwsOgp/view?usp=sharing)

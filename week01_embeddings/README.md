@@ -1,4 +1,4 @@
-# Week 1
+# Weeks 1-3
 
 ## Word embeddings
 - [__Lecture slides__](https://drive.google.com/file/d/1YJi56rdgKANlOE_Uam4LDAKhDyjJTD1L/view?usp=sharing)
