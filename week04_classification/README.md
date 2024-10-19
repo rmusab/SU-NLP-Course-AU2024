@@ -2,7 +2,7 @@
 
 ## Text classification
 - [__Lecture slides__](https://drive.google.com/file/d/1G4UDH3BIm0kxjNjvlTUPzy8MPzWwsOgp/view?usp=sharing)
-- Our videos: 
+- Our videos: [__Lecture 1__](https://washington.zoom.us/rec/share/FVEnANJ7Yjw6wU5nPsuGZNIJgk5abfUtw4VgI0-nMb3umehwFQjKA9rqGNBS5LYh.yz0xmU7G4OYjG_c1), [__Lecture 2__](https://washington.zoom.us/rec/share/iRIARbHWiqnnT7duA50__nHAguJpvEqvlhQGdtFd24NMnOQcvijtyeOzJVpII7h5.LiQTy8EJP_sGCe9v) 
 * Stanford NLP lecture: [__Text convolutions__](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
 ## Practice & homework
