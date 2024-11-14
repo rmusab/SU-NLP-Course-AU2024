@@ -2,7 +2,7 @@
 
 ## Language Modeling
 - [__Lecture slides__](https://drive.google.com/file/d/1t_ZfmLqlhZTYe-3a-3M9uqQfH_xJYSh-/view?usp=sharing)
-* Our videos: [__Lecture 1__](https://washington.zoom.us/rec/share/Daxi2kUPvCnDqHGPGAXgzuhBHdJyN0QcObkk5aXkYkcaOSSJ2naxslbPNpH1pjZ5.rbZtMCYVBKdbW9NJ)
+* Our videos: [__Lecture 1__](https://washington.zoom.us/rec/share/Daxi2kUPvCnDqHGPGAXgzuhBHdJyN0QcObkk5aXkYkcaOSSJ2naxslbPNpH1pjZ5.rbZtMCYVBKdbW9NJ), [__Lecture 2__](https://washington.zoom.us/rec/share/mgu6t9kdk9GlD7ur9F6URsoPUHRahH7pXZPiLaBw5A0IDcqVh-Kro0OGXKvlvhSF.0LFJ158DSRLQzAjQ)
 * Stanford NLP videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
 ## Practice & homework
