@@ -2,7 +2,7 @@
 
 ## Seq2seq and Attention
 * [__Lecture slides__](https://drive.google.com/file/d/1fTmGX5oJnYSxIWjIWyAe-M8Qp4E77SrQ/view?usp=sharing)
-* Our videos (russian):  [__Lecture 1__](https://washington.zoom.us/rec/share/sJ-p9EUbXRwrZ1trDBV2B5a-xeX-H0OUjIEnr7YXFcdMIUamRtmyRMuB-sJZCT4W.Dcz0aUC5eDFhm82V), [__Lecture 2__](https://washington.zoom.us/rec/share/yGg5qUCGhWpG5sqVOYr3Vn9gr_AGkhrDND89zGgvCfMN8Aj_2b-Rwh6MkxWeqTPI.eCewrsoLtpFLq83R)
+* Our videos (russian):  [__Lecture 1__](https://washington.zoom.us/rec/share/sJ-p9EUbXRwrZ1trDBV2B5a-xeX-H0OUjIEnr7YXFcdMIUamRtmyRMuB-sJZCT4W.Dcz0aUC5eDFhm82V), [__Lecture 2__](https://washington.zoom.us/rec/share/yGg5qUCGhWpG5sqVOYr3Vn9gr_AGkhrDND89zGgvCfMN8Aj_2b-Rwh6MkxWeqTPI.eCewrsoLtpFLq83R), [__Lecture 3__](https://washington.zoom.us/rec/share/yZzr3GwuV-rcAogg6jAwM9n1jWlPI1Si1zj7vlLTBvgmws7mtPidjs1n-YjaXhU.d_jZTn895PsmMK6F)
 * Stanford lecture on seq2seq and MT (english) - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 * Alternative CMU lectures - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20) and [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
 
